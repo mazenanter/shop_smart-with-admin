@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589472488600",
+    "project_id": "shopsmart-660c1",
+    "storage_bucket": "shopsmart-660c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589472488600:android:5d83be9e5db80d52b844ed",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJCx43HcX3AqU50T31QEUGZoDbFgzJnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
